@@ -1,0 +1,4 @@
+name: Ability_Plugin
+version: '${project.version}'
+main: org.ability_plugin.Ability_Plugin
+api-version: '1.20'
